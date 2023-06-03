@@ -4,7 +4,6 @@
     background: transparent center top no-repeat;
     background-size: var(--ech-portrait-size);
     border: 1px solid transparent;
-    backdrop-filter: blur(6px);
     display: flex;
     flex-direction: row;
     justify-content: space-around;
