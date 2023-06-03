@@ -242,7 +242,6 @@
 /* ========== Portrait.css ========== */
 .portrait-hud {
 	/* ADD THEME OPTIONS */
-	background-color: var(--ech-mainAction-base-background);
 	border-color: var(--ech-mainAction-base-border);
 	color: var(--ech-bonusAction-base-color);
 }
