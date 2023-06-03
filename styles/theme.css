@@ -1,6 +1,5 @@
 /* ========== ECH.css ========== */
 .extended-combat-hud {
-	color: var(--ech-mainAction-base-color);
 	font-family: var(--ech-font-family);
 }
 
@@ -26,7 +25,6 @@
 	background-origin: content-box;
 	background-size: contain;
 	border: 1px solid var(--ech-mainAction-base-border);
-	color: var(--ech-mainAction-base-color);
 }
 .action-element[data-set=setp], .action-element[data-set=sets] {
 	color: rgb(150, 150, 150);
